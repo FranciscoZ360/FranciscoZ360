@@ -35,7 +35,7 @@ Me gusta construir herramientas pequeñas y útiles que resuelven problemas real
 |---|---|---|
 | [UltraLauncher](https://github.com/FranciscoZ360/ultralauncher) | Launcher para Android con reloj, batería, buscador y cajón de apps (Java) | En evolución |
 | [VideoFondo](https://github.com/FranciscoZ360/VideoFondo) | Usa un video como fondo de pantalla animado en Android (Kotlin) | Funcional |
-| [Generador de Colores](https://github.com/FranciscoZ360/Generador-de-Colores) | Paletas de colores aleatorias en el navegador (HTML, CSS, JS) | Terminado |
+| [Generador de Colores](https://github.com/FranciscoZ360/Generador-de-Colores) | Paletas de colores aleatorias en el navegador (HTML, CSS, JS). [Ver demo](https://franciscoz360.github.io/Generador-de-Colores/) | Terminado |
 | [Python en Blender](https://github.com/FranciscoZ360/Python-in-Blender) | Scripts que crean geometría por código en Blender | Ejemplos de aprendizaje |
 | [Organizador de archivos](https://github.com/FranciscoZ360/organizador-de-archivos) | Herramienta de línea de comandos que ordena una carpeta por tipo de archivo, con simulación previa y opción de deshacer (Python, con tests) | Primera versión funcional |
 
